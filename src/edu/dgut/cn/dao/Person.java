@@ -1,5 +1,6 @@
 package edu.dgut.cn.dao;
 
 public class Person {
-    String id;
+    private String id;
+    private  String name;
 }
