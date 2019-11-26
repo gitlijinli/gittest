@@ -6,6 +6,5 @@ public class Person {
     private String address;
     private String sex;
     private String phone;
-    private String number;
 
 }
